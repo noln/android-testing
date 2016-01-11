@@ -1,4 +1,4 @@
-# Android Testing Codelab
+# Android Testing Codelab (Rx & Kotlin)
 
 This project uses the Android Testing Codelab Notes App, and associated test suite, as a basis for a code porting demo.
 
